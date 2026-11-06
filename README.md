@@ -71,7 +71,6 @@ To configure Firebase:
 4. Configure Firestore if required.
 5. Add the Firebase configuration to your project.
 
-**Firebase Console:** https://console.firebase.google.com/
 
 ## 🎯 Project Objective
 
